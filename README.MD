@@ -10,25 +10,25 @@ This program simulates the three algorithms:
 
 
 **Compilation**
-To compile the C++ source code, navigate to the HW1 directory in your terminal and use a C++ compiler 
+To compile the C++ source code, navigate to the source directory in your terminal and use a C++ compiler 
 - Compile for use with **Linux** via g++:  
 *** ->     g++ 15problem.cpp -o 15problem                                                                 ***
 
 - Compile for use with **Windows (compiled within WSL)** via mingw-w64: 
 *** ->     x86_64-w64-mingw32-g++ 15problem.cpp -o 15problem.exe -static-libgcc -static-libstdc++         ***
 
-*In both cases, instead of navigating to the HW1 folder, one can also specify the absolute or relative path to where the source code is located in order to compile it*
+*In both cases, instead of navigating to the source folder, one can also specify the absolute or relative path to where the source code is located in order to compile it*
 
 
 
 **Starting the Program:**
-- **Linux**: navigate to the HW1 directory in your terminal and execute:  
+- **Linux**: navigate to the source directory in your terminal and execute:  
 *** ->     ./15problem                                                                                   ***
 
-- **Windows**: navigate to the HW1 directory in your terminal and double click the executable or execute 
+- **Windows**: navigate to the source directory in your terminal and double click the executable or execute 
 *** ->     .\15problem.exe                                                                               ***
 
-*In both cases, instead of navigating to the HW1 folder, one can also specify the absolute or relative path to where the executable is located in order to run it*
+*In both cases, instead of navigating to the source folder, one can also specify the absolute or relative path to where the executable is located in order to run it*
 
 
 
